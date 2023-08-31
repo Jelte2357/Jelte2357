@@ -4,14 +4,12 @@
 - Yet to do:
 - [x] Comments in the discord bot
 - [ ] Comments in the audiosender
+- [ ] Get the ethernet port at the radio studio switched
+- [ ] Comments in the main program
       
 - [ ] Fixing the main program:
 - [ ] For work with multithreading
 - [ ] For work with pc + raspberry pi
-
-- [ ] Get the ethernet port at the radio studio switched, and get the wifi password
-- [ ] Comments in the main program
-- [ ] Being able to ssh into the raspberry pi from my chromebook
 
 <!---
 Jelte2357/Jelte2357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
