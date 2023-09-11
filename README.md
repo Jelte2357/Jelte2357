@@ -12,7 +12,8 @@
 - [ ] For work with pc + raspberry pi
 - [ ] Comments
 
-- [ ] Testing audio in the dependance
+- [x] Testing audio in the dependance
+- [ ] Now make that also work over ethernes
 <!---
 Jelte2357/Jelte2357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. k cool
