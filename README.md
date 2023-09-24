@@ -5,7 +5,7 @@
 - [x] Comments in the discord bot
 - [x] Comments in the audiosender
 
-- [ ] Get the ethernet port at the radio studio switched to admin
+- [ ] Get the ethernet port at the radio studio switched to the same one as on the dependance
       
 - [ ] Fixing the main program:
 - [ ] For work with multithreading
@@ -13,7 +13,10 @@
 - [ ] Comments
 
 - [x] Testing audio in the dependance
-- [ ] Now make that also work over ethernes
+
+- Other projects:
+- Making a discord bot to play a version of Jet Lag The Game (tag across -place-)
+- On that project i still have a lot to do, but ill enjoy playtesting!
 <!---
 Jelte2357/Jelte2357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. k cool
