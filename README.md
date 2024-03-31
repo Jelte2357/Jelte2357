@@ -1,7 +1,7 @@
 - Hi, I’m @Jelte2357
 - I’m interested in making things better with python
 - I’m currently working on:
-- Advent of Code 2023
+- Some small projects
 - A discord bot and more programs for a radio studio at my school
 - Making a discord bot to play a version of Jet Lag The Game (tag across -place-)
 <!---
