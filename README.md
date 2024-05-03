@@ -12,3 +12,5 @@ Some of my bigger projects:
 - A discord bot that allows the user to play the game tag across europe from the series jetlag on youtube.
 ### [Concentrator](https://github.com/Jelte2357/Concentrator)
 - My final project for CS50X. This python program uses a gui and the closing of apps for you to make sure you concentrate on your work.
+### [AutoReqs](https://github.com/Jelte2357/AutoRequirements)
+- Pipreqs didn't always work for me, so I set out on the challenge to make a requirements.txt file using only standard libraries.
