@@ -1,4 +1,4 @@
-# Hi, I’m @Jelte2357
+# Hi, I’m Jelte2357
 ## Visitor Count: 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/jelte2357/count.svg" />
