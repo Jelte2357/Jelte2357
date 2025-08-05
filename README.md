@@ -1,8 +1,4 @@
 # Hi, I’m Jelte2357
-## Visitor Count: 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/jelte2357/count.svg" />
-</p>
 
 ## I'm a Python developer, though I also can use HTML, JS, CSS for making basic websites and C for small applications.
 Some of my bigger projects:
