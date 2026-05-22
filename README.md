@@ -4,9 +4,9 @@
 Some of my bigger projects in order of importance:
 ### [PhilipsAirfryer](https://github.com/Jelte2357/PhilipsAirfryer)
 - I reverse engineered my Philips 5000XXL Airfryer to add it to Home Assistant
-### [FreeRooms] (https://github.com/Jelte2357/FreeRooms)
+### [FreeRooms](https://github.com/Jelte2357/FreeRooms)
 - My current university often has it's reservable study rooms fully booked, so I use the data from TimeEdit to figure out which rooms are currently empty
-### [VuurDuivel] (https://github.com/Jelte2357/VuurDuivel)
+### [VuurDuivel](https://github.com/Jelte2357/VuurDuivel)
 - Working on a online clone of Catan the cardgame, while originally a hobby project to try and improve my skills, has grown to become quite a big project already
 - Note: it is not yet finished.
 ### [KiesJeRijksDocent](https://github.com/Jelte2357/kiesjerijksdocent)
